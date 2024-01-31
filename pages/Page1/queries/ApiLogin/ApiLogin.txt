@@ -1,0 +1,6 @@
+{{
+	{
+		email: usernameInput.text,
+ 		password: passwordInput.text
+	}
+}}
